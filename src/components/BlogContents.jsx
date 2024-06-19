@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from "react";
+
 const blogs = [
   {
     slug: "the-rise-of-ai-in-everyday-life",
